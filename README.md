@@ -3,7 +3,7 @@
 Maybe more people properly mention licences, when it is less 'hassle'.
 On an OS, webbrowser or JavaScript library level I'm wondering how far this idea can be taken: Copy-Paste that (partially) understands copyright.
 
-It would help adding a license to what you're creating, based on (licenses of) content you're using.
+It would help adding a license to what you're creating, based on (licenses of, not necessarily limited to Creative Commons) content you're using.
 
 Of course this complex subject can't be fixed/replaced by a piece of software, but certainly 'significantly helped' should be possible if a few often used licenses are supported
 
