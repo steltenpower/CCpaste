@@ -10,8 +10,8 @@ Of course this complex subject can't be fixed/replaced by a piece of software, b
 
 Maybe https://wiki.creativecommons.org/wiki/CC_REL , https://wiki.creativecommons.org/wiki/Web_Integration , https://wiki.creativecommons.org/wiki/XMP_Implementations can help a bit
 
-This was mentioned to the top developer at CreativeCommons, but without reply :-(
-
 Btw: There are now 'emoji' for the different Creative Commons licences: https://en.wikipedia.org/wiki/Creative_Commons_license#Unicode_symbols
 
 Inkscape is so much better with working grid detection, and clipart which tells you the license when you import them: https://youtu.be/GRbA5mGChCU?t=265
+
+Explaining me why this idea makes no sense at ALL, is also helpful
