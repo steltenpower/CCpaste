@@ -15,3 +15,9 @@ Btw: There are now 'emoji' for the different Creative Commons licences: https://
 Inkscape is so much better with working grid detection, and clipart which tells you the license when you import them: https://youtu.be/GRbA5mGChCU?t=265
 
 Explaining me why this idea makes no sense at ALL, is also helpful
+
+Drag your Image Search results in
+
+![](https://repository-images.githubusercontent.com/217835174/230adadd-e41e-4520-86af-085408bce9da)
+
+I Googled quite a bit but haven't yet found an example that allows to drag an image from one browser window to another :-( (not the same, but on Mac you can drag an image from Safari into Powerpoint)
