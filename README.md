@@ -23,3 +23,5 @@ Drag your Image Search results in
 I Googled quite a bit but haven't yet found an example that allows to drag an image from one browser window to another :-( (not the same, but on Mac you can drag an image from Safari into Powerpoint)
 
 https://help.libreoffice.org/6.1/he/text/swriter/classificationbar.html (blocks content with incompatible restrictions to be dragged in)
+
+[https://github.com/steltenpower/CCpaste](https://www.haykranen.nl/2025/06/27/this-is-how-you-easily-get-licensing-and-credit-details-for-free-images-on-wikimedia-commons/)
