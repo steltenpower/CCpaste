@@ -27,3 +27,5 @@ https://help.libreoffice.org/6.1/he/text/swriter/classificationbar.html (blocks 
 [https://github.com/steltenpower/CCpaste](https://www.haykranen.nl/2025/06/27/this-is-how-you-easily-get-licensing-and-credit-details-for-free-images-on-wikimedia-commons/)
 
 Also look at IIIF (International Image Interoperability Framework)
+
+https://oembed.com
